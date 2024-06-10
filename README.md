@@ -20,7 +20,7 @@ Columns of the population dataset include
 <br>
 
 ## Analysis
-<img src="Task_1.png" width="550" height="650">
+<img src="Output.png" width="550" height="400">
 
 ## Author
 ### Tushar Mukherjee 
