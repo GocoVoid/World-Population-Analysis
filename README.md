@@ -9,7 +9,7 @@
 <br>
 
 ## Data Understanding
- The datasets is obtained from The World Bank website <a href="https://data.worldbank.org/indicator/SP.POP.TOTL">Population</a> The dataset contains information about the population of various countries over several decades, along with additional details such as region and income group.
+ The datasets is obtained from The World Bank website <a href="https://data.worldbank.org/indicator/SP.POP.TOTL">Population</a> The dataset contains information about the population of various countries over several continents.
 Columns of the population dataset include
 <ul>
   <li><code>Country</code> : The name of country.</li>
