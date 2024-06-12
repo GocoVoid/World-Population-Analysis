@@ -1,4 +1,5 @@
 # World Population Analysis
+<img src="Task_1.png" width=500 height=200>
 
 ## Business Understanding
 ### The objective of this data science project is :
